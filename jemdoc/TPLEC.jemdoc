@@ -1,0 +1,73 @@
+# jemdoc: addcss{jemdoc/jemdoc.css}
+# jemdoc: addcss{jemdoc/myExtra.css}
+# jemdoc: title{TPL Layout Decomposition with End-Cutting}
+
+
+# ==== Title and Authors
+{{
+<p><center><font size="8" face="Times New Roman" color="b54900">
+TPLEC: TPL Layout Decomposition with End-Cutting
+</font></center></p>
+}}
+
+
+{{<div id="intro">}}
+== Introduction
+
+We present *TPLEC*, a layout decomposition for triple patterning lithography with end-cutting.
+
+{{</div>}}
+
+
+
+{{<div id="excu">}}
+== Excutables
+
+- SPIE'13 excutables:
+#[http://www.cerc.utexas.edu/~bei/software/TPLPlacer/TPLPlacer_2_1.tar.gz Version 2.1]
+
+{{</div>}}
+
+
+
+{{<div id="bench">}}
+== Benchmarks
+
+- SPIE'13 benchmarks:
+# [http://www.cerc.utexas.edu/~bei/software/TPLPlacer/TPLPlacer_2_1.tar.gz Version 2.1]
+
+{{</div>}}
+
+
+{{<div id="publication">}}
+== Publications
+
+- Bei Yu, Jhih-Rong Gao and David Z. Pan,
+  "[http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1674511 Triple-patterning lithography (TPL) layout decomposition using end-cutting]",
+  SPIE Intl. Symp. Advanced Lithography, San Jose, CA, Feb. 24--28, 2013.
+
+- Bei Yu, Subhendu Roy, Jhih-Rong Gao and David Z. Pan,
+  "[http://nanolithography.spiedigitallibrary.org/article.aspx?articleid=1930780 Triple-patterning lithography (TPL) layout decomposition using end-cutting]",
+  Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), vol.14, no.1, 011002, 2015.
+
+{{</div>}}
+
+
+{{<div id="contact">}}
+== Contact
+
+TPLEC-Decomposer is developed by
+[http://www.cerc.utexas.edu/~bei Bei Yu],
+[http://www.cerc.utexas.edu/~subhendu Subhendu Roy], and 
+[http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan].
+Please [mailto:bei@cerc.utexas.edu contact us] with any bug reports and comments. 
+
+{{</div>}}
+
+
+{{<div id="link">}}
+== Links
+
+{{</div>}}
+
+
