@@ -26,8 +26,9 @@ We present *TPLEC*, a layout decomposition for triple patterning lithography wit
 - SPIE'13 excutables:
 #[http://www.cerc.utexas.edu/~bei/software/TPLPlacer/TPLPlacer_2_1.tar.gz Version 2.1]
 
-{{</div>}}
+- JM3'15 excutables: [executables/TPLEC_JM3_15.tar.gz TPLEC_JM3]
 
+{{</div>}}
 
 
 {{<div id="bench">}}
@@ -35,6 +36,8 @@ We present *TPLEC*, a layout decomposition for triple patterning lithography wit
 
 - SPIE'13 benchmarks:
 # [http://www.cerc.utexas.edu/~bei/software/TPLPlacer/TPLPlacer_2_1.tar.gz Version 2.1]
+[http://www.cerc.utexas.edu/utda/download/MPLD/benchmark/ISCAS85_GDS.tar.gz GDSII format]
+[http://www.cerc.utexas.edu/utda/download/MPLD/benchmark/ISCAS85_ASCII.tar.gz ASCII format]
 
 {{</div>}}
 
